@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Hi, I am Tooran.<br>🏢 I'm currently working on modelling of concrete pipe flow.<br>🧠 My specialization inside engineering’ world is numerical methods to solve complex fluid behaviour.<br>📚 Ask me about computational fluid dynamics (CFD), discrete element method (DEM), and coupled      CDF-DEM<br>🌱 I’m currently learning more about C++.<br>⚡Fact: NO COFFEE NO CODE<br>
+😄 Hi, I am Tooran.<br>🏢 I'm currently working on modelling of suspension pipe flow.<br>🧠 My specialization inside the engineering's world is numerical methods to solve complex fluid behaviour.<br>📚 Ask me about computational fluid dynamics (CFD), discrete element method (DEM), and coupled      CDF-DEM<br>🌱 I’m currently learning more about C++.<br>⚡Fact: NO COFFEE NO CODE<br>
 
 
 ## 🌐 Socials:
